@@ -8,5 +8,4 @@ ESP32 modülüne yükleme Ardunio IDE ile yükleme yaparken Reset tuşuna basıl
 sekizkenar.com
 
   </content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
