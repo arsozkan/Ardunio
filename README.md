@@ -1,9 +1,12 @@
 <snippet>
-  <content><![CDATA[
-# ${1:ESP 32 DETAY}
+    <content>
+ 
+## ESP 32 Detay
 ESP32 modülüne yükleme Ardunio IDE ile yükleme yaparken Reset tuşuna basılı tutulmalıdır.
+
 ## License
 sekizkenar.com
-]]></content>
+
+  </content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
